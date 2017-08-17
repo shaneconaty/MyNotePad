@@ -1,11 +1,17 @@
-﻿namespace myNotepad
+﻿/******************************************************************************
+Author:      S.Conaty
+Date:        17/08/2017
+Name:        About.Designer.cs
+Description: Design COde for the About Form.
+ *****************************************************************************/
+namespace myNotepad
 {
     partial class FrmAbout
     {
         /// <summary>
         /// Required designer variable.
         /// </summary>
-        private System.ComponentModel.IContainer components = null;
+        private System.ComponentModel.IContainer components = null; 
 
         /// <summary>
         /// Clean up any resources being used.

@@ -1,4 +1,10 @@
-﻿namespace myNotepad
+﻿/******************************************************************************
+Author:      S.Conaty
+Date:        17/08/2017
+Name:        Form1.Designer.cs
+Description: Design COde for the Main Form.
+ *****************************************************************************/
+ namespace myNotepad
 {
     partial class MyNotepadFrm
     {
